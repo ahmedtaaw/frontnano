@@ -6,4 +6,6 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+  *I learned alot about html tags, html tree, how to search for the write tag, how to add image and button, what is h1, h2, why we need the alt in the image tag 
+  *it was not easy but i love it and enjoy it
+  *No it was not difficult, most of the topics was clear.
